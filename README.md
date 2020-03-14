@@ -30,9 +30,11 @@ https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data
 https://towardsdatascience.com/exoplanet-hunting-using-machine-learning-d615958e1787
    
    
-   Presentation Outline: 
- https://docs.google.com/presentation/d/1LPSnOsjizV8cHYn62lUWA4nNYYyW_bZo2snQ637I1wc/edit#slide=id.p
-01. EXOPLANET DISCOVERY
+  
+https://docs.google.com/presentation/d/1LPSnOsjizV8cHYn62lUWA4nNYYyW_bZo2snQ637I1wc/edit?usp=sharing01. 
+Presentation Outline:
+
+EXOPLANET DISCOVERY
 02. Intro/History statement
 03. Overview: 
 04. Problem Statement: Can data science solve the search for exoplanets
